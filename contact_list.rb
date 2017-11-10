@@ -19,3 +19,5 @@ case user_input
   else
     puts "invalid input, you dingus"
 end
+
+puts "HI"
